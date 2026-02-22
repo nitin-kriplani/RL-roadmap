@@ -20,6 +20,13 @@ This repository provides a comprehensive roadmap for learning Reinforcement Lear
 - Value iteration
 - Applications of DP in RL
 
+### Week 3: Model-Free Prediction and Control
+- Monte Carlo methods
+- Temporal Difference (TD) learning
+- SARSA (on policy)
+- Q learning
+- Cart Pole Problem Implementation using Q learning
+
 ## Resources
 
 - [Reinforcement Learning:

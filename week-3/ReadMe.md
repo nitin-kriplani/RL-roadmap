@@ -3,7 +3,7 @@
 ## Overview
 This week covers learning from experience without knowing the environment dynamics (the transition probability).
 
-And implementation of [Cart Pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) problem using Q learning algorithm. (in the '[cartpole](\cartpole)' forlder)
+And implementation of [Cart Pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) problem using Q learning algorithm. (in the 'cartpole' forlder)
 
 ## Core Algorithms
 
@@ -57,4 +57,4 @@ See `week3.ipynb` for:
 1. Run `week3.ipynb` cells sequentially
 2. Observe learning curves and compare SARSA vs Q-Learning
 3. Visualize learned policies (how they navigate the cliff)
-4. Move to more complex [cart pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) problem in  the '[cartpole](\cartpole) folder.
+4. Move to more complex [cart pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) problem in  the 'cartpole' folder.
